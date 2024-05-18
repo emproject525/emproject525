@@ -16,7 +16,6 @@
 <span><img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" title="sass"></span>
 </div>
 <br />
-<br />
 <details>
 <summary>✍🏻 <strong>STUDY</strong></summary>
 <br />
@@ -28,12 +27,14 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
+<br />
 ### My Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emproject525&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emproject525&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=default&&hide=prs,contribs&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emproject525&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=default&&hide=prs,contribs&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<br />
 ### Blog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=emproject525)](https://velog.io/@emproject525)
