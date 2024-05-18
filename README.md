@@ -1,6 +1,6 @@
 ### Frontend Developer
 
-어제보다 더 나은 오늘을 위해 차근차근 나아가고 있습니다. 👋
+어제보다 더 나은 오늘을 위해 차근차근 나아가고 있습니다. 😊
 
 ### 기술 스택
 
@@ -11,16 +11,19 @@
 <span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" title="redux"></span>
 <span><img src="https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=redux-saga&logoColor=white" title="redux-saga"></span>
 <span><img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white" title="mobx"></span>
+<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" title="html5"></span>
+<span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" title="css"></span>
+<span><img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" title="sass"></span>
 </div>
-
+<br />
+<br />
 <details>
-<summary>✍🏻 STUDY</summary>
-
+<summary>✍🏻 <strong>STUDY</strong></summary>
+<br />
 <span><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white" title="recoil"></span>
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" title="next.js"></span>
 <span><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" title="express"></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" title="mysql"></span>
-
 </details>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
